@@ -10,7 +10,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:/Users/lowkp/Desktop/bin/gcc.exe"
+            "compilerPath": "/usr/bin/clang++"
         }
     ],
     "version": 4
